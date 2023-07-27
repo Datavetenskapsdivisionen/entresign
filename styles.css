@@ -1,9 +1,10 @@
 .body {
-    padding: 0;
+    
     margin: 0;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    background-color: black;
 }
 .a{
     padding: 0;
@@ -16,7 +17,12 @@
 }
 
 .iframe {
+    padding: 0;
+    margin: 0;
     border: none;
     width: 100%;
     height: 100%;
+}
+.sc {
+    padding-top: 80px;
 }
